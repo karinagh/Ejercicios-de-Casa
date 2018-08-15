@@ -1,5 +1,8 @@
 /* Este programa dibuja una "Tetera", este objeto esta definido
- * en GLUT, se crea una fuente de luz, y un material */
+ * en GLUT, se crea una fuente de luz, y un material 
+ KARINA GALVAN HERNANDEZ
+ PRACTICA 1
+ VISUAL STUDIO 2015*/
 
 //Incluimos las librerias
 //#include <GL/glut.h>
